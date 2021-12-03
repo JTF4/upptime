@@ -26,9 +26,13 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://davidstevens.co
       
 assignees: # Users to assign downtime issues (optional)
   - JTF4
 
+status-website:
+  theme: light
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

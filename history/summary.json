@@ -4,19 +4,19 @@
     "url": "https://davidstevens.co",
     "icon": "https://favicons.githubusercontent.com/davidstevens.co",
     "slug": "personal-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 178,
-    "timeWeek": 159,
-    "timeMonth": 161,
-    "timeYear": 146,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
+    "time": 145,
+    "timeDay": 165,
+    "timeWeek": 156,
+    "timeMonth": 160,
+    "timeYear": 145,
     "dailyMinutesDown": {
-      "2022-05-27": 0
+      "2022-05-27": 38
     }
   }
 ]

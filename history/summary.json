@@ -4,18 +4,19 @@
     "url": "https://davidstevens.co",
     "icon": "https://favicons.githubusercontent.com/davidstevens.co",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 151,
-    "timeDay": 189,
-    "timeWeek": 139,
-    "timeMonth": 179,
+    "timeDay": 140,
+    "timeWeek": 134,
+    "timeMonth": 177,
     "timeYear": 151,
     "dailyMinutesDown": {
+      "2022-06-21": 0,
       "2022-05-27": 38
     }
   }

@@ -2,7 +2,7 @@
   {
     "name": "Personal Website",
     "url": "https://davidstevens.co",
-    "icon": "https://favicons.githubusercontent.com/davidstevens.co",
+    "icon": "https://icons.duckduckgo.com/ip3/davidstevens.co.ico",
     "slug": "personal-website",
     "status": "up",
     "uptime": "99.96%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 148,
-    "timeDay": 123,
-    "timeWeek": 154,
-    "timeMonth": 145,
+    "timeDay": 189,
+    "timeWeek": 157,
+    "timeMonth": 143,
     "timeYear": 148,
     "dailyMinutesDown": {
       "2022-06-30": 68,
